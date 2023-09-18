@@ -1,4 +1,4 @@
-# Laneyeh.Homework3
+# Laneyeh.Homework2
 Laney Humble
 September 18th, 2023
-Homework3 for Web Development
+Homework2 for Web Development
